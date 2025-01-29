@@ -1,2 +1,2 @@
 # react-native
-Food delivery react native application 
+Food delivery react native applications
